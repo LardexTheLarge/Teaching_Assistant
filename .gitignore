@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 processed_code.csv
+trained_model.h5
 # C extensions
 *.so
 
