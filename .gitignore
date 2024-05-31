@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 processed_code.csv
 trained_model.h5
+tokenizer.json
 # C extensions
 *.so
 
