@@ -3,8 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 processed_code.csv
-trained_model.h5
+teaching_model.h5
 tokenizer.json
+extracted_code.csv
+notebooks_code_tokenizer_300
 # C extensions
 *.so
 
